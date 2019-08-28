@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    daniel:
+  daniel:
       name:           Даниел Богдански
       site:           https://dabuda.net
       avatar:         /assets/images/avatar1.jpg
