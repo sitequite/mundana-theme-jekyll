@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    daniel:
       name:           Даниел Богдански
       site:           https://dabuda.net
       avatar:         /assets/images/avatar1.jpg
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Даниел Богдански
+      author: daniel
       avatar: /assets/images/avatar1.jpg
       
   # all pages
