@@ -4,22 +4,4 @@ title:  "Welcome to Jekyll!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Казвам се Даниел Богдански и съм роден и израснал в красивия и патриотичен град Карлово. Страст и хоби са ми литературата, историята и филмите, но най-много ме вълнуват сложните взаимоотношения между хората, културата, политиката и бизнеса. Поради тази причина в момента уча за бакалавър по международен бизнес в Холандия и силно се надявам един ден активно да допринеса за развитието на България в икономически и културен аспект. В края на 2015г. публикувах видеоклипа си “Българският път - Потенциал. Проблеми. Перспективи”, с който трогнах българи от цял свят, и с който поставих началото на поредицата “Да си върнем Българския дух”. След хилядите гледания на видеоклиповете ми в ютуб и фейсбук реших да създам dabuda.net, за да обединя идеите и проектите си на едно място, за да може всеки, който се интересува от публикациите ми да ги открива тук. Най-добре ще разберете кой съм аз от статиите и видеата, които публикувам. Обожавам българските народни танци и фолклор и не спирам да се удивлявам на красотата, с която е надарена родината ни – в природен, духовен и културен аспект. Освен това обичам да пътувам, да спортувам, да чета и да опознавам чужди култури.
